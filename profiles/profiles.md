@@ -12,3 +12,5 @@ Maxime Fraser Franco
 Twitter: @MFraserFranco
 Github: @quantitative-ecologist
 
+Kirsten Michelle Palmier
+website: https://www.urimss.ca 
